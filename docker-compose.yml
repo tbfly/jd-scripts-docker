@@ -12,9 +12,9 @@ x-common: &common
     dockerfile: ./Dockerfile
   restart: always
 services:
-  jd1_new:
+  jd1:
     <<: [ *logger, *common ]
-    container_name: jd1_new
+    container_name: jd1
     volumes:
     - ./env/all:/all
     - ./env/env1:/env

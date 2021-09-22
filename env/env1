@@ -1,6 +1,4 @@
 #!/bin/bash
-pt_key=AAJhF8miADDZit6XsgeQLF9O8JejdxbyDUL7lYmU__DO6zfox6pht3f4tkzm55ZyF2YaTET5KJA
-pt_pin=tbfly
+pt_key=
+pt_pin=
 JD_COOKIE="pt_key=$pt_key;pt_pin=$pt_pin;"
-
-#tbfly
